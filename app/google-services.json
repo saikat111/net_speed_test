@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581719419159",
+    "project_id": "net-speed-checker",
+    "storage_bucket": "net-speed-checker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581719419159:android:f57fd195cab4d779ccef52",
+        "android_client_info": {
+          "package_name": "com.codingburg.checknetspeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581719419159-ouiuimoll4n9fjkdm1fqjvbehaqqf6jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD31XeHypfdhps4ELEa2pL2LQjfhdiSLyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581719419159-ouiuimoll4n9fjkdm1fqjvbehaqqf6jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
